@@ -10,7 +10,7 @@ public class Testfiloe implements Filter {
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        System.out.println("初始化");
+        System.out.println("初始化2");
     }
 
     @Override
